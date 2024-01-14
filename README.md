@@ -2,13 +2,11 @@
 - ⚒ Interning in IT Support
 - 🎬 Favorite anime: Neon Genesis Evangelion
 - 🈸 Favorite manga: Mob Psycho 💯
-</br>
 
 ## Muito prazer! 🖖🏾
 - ⚒ Estagiário em Suporte de TI
 - 🎬 Anime favorito: Neon Genesis Evangelion
 - 🈸 Mangá favorito: Mob Psycho 💯
-</br>
 
 ## ¡Encantado! 🖖🏾
 - ⚒ Practicante en Soporte de TI
