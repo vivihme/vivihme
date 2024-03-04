@@ -8,7 +8,7 @@
 - 🎬 Anime favorito: Neon Genesis Evangelion
 - 🈸 Mangá favorito: Mob Psycho 💯
 
-## ¡Encantad@!
+## ¡Encantado!
 - ⚒ Practicante en Soporte de TI
 - 🎬 Anime especial: Neon Genesis Evangelion
 - 🈸 Manga especial: Mob Psycho 💯
