@@ -1,14 +1,14 @@
 ## Nice to meet you!
-- 🧠 AI Engineering Student
+- 🧠 AI Engineering
 - 🎬 Favorite anime: Neon Genesis Evangelion
 - 🈸 Favorite manga: Mob Psycho 💯
 
 ## Muito prazer!
-- 🧠 Estudante de Engenharia de IA
+- 🧠 Engenharia de IA
 - 🎬 Anime favorito: Neon Genesis Evangelion
 - 🈸 Mangá favorito: Mob Psycho 💯
 
 ## ¡Encantado!
-- 🧠 Estudiante de Ingeniería en IA
+- 🧠 Ingeniería en IA
 - 🎬 Anime especial: Neon Genesis Evangelion
 - 🈸 Manga especial: Mob Psycho 💯
