@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**vivihme/vivihme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, it's a pleasure to meet you! 👋
+<h3>My name is Vinicius Souza, I'm 24 years old, and I live in Manaus, Amazonas, Brazil.</h3>
+<p>I recently graduated in Systems Analysis and Development (Wyden). I also have internship experience in IT Support at <a href="https://sistema365.com.br/" target="_blank">Sistema 365.</a></p>
+<p>Currently, I'm studying to become a Front-End Web Developer and I'm improving my skills in the following technologies:</p>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML logo" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS logo" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code logo" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  alt="Git logo" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub logo" width="30" height="30"/>
+</p>
+<p>You can check out my projects, feel free to explore. See you soon! 😄</p>
