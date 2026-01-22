@@ -12,6 +12,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivihme&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivihme&layout=compact&theme=tokyonight)
+
+
 ![Snake animation](https://github.com/vivihme/vivihme/blob/output/github-contribution-grid-snake.svg)
 
 <p>You can check out my projects, feel free to explore. See you soon! 😄</p>
