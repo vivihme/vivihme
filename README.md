@@ -9,4 +9,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  alt="Git logo" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub logo" width="30" height="30"/>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivihme&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <p>You can check out my projects, feel free to explore. See you soon! 😄</p>
