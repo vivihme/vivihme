@@ -9,12 +9,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  alt="Git logo" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub logo" width="30" height="30"/>
 </p>
+<p>You can check out my projects too, feel free to explore. See you soon! 😄</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivihme&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivihme&layout=compact&theme=tokyonight)
 
-
 ![Snake animation](https://github.com/vivihme/vivihme/blob/output/github-contribution-grid-snake.svg)
-
-<p>You can check out my projects, feel free to explore. See you soon! 😄</p>
