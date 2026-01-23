@@ -11,7 +11,7 @@
 </p>
 <p>You can check out my projects too, feel free to explore. See you soon! 😄</p>
 
-[![](https://github-readme-stats.vercel.app/api?username=vivihme&show_icons=true&theme=tokyonight)]
+![](https://github-readme-stats.vercel.app/api?username=vivihme&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivihme&layout=compact&theme=tokyonight)
 
