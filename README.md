@@ -18,7 +18,7 @@
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=vivihme&show_icons=true&theme=highcontrast&include_all_commit=true"
 />
-
+<br>
 <img
   align="left"
   alt="GitHub Stats"
