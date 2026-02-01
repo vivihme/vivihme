@@ -10,22 +10,3 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub logo" width="30" height="30"/>
 </p>
 <p>You can check out my projects too, feel free to explore. See you soon! 😄</p>
-
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=vivihme&show_icons=true&theme=highcontrast&include_all_commit=true"
-/>
-<br>
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivihme&theme=highcontrast&layout=compact"
-/>
-
-
-![](https://github.com/vivihme/vivihme/blob/output/github-contribution-grid-snake.svg)
