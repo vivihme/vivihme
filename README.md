@@ -8,6 +8,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code logo" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  alt="Git logo" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub logo" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="Github Copilot logo" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="Github Copilot logo" width="35" height="35"/>
 </p>
 <p>You can check out my projects too, feel free to explore. See you soon! 😄</p>
